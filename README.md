@@ -1,4 +1,4 @@
-#Léeme
+# Léeme
 # Medición experimental de la constante del tiempo de un circuito RC en carga y descarga
 ## Instrucciones 
 La versión final de su repositorio debe contener:
